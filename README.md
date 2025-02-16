@@ -18,7 +18,7 @@
 ## Installation
 
 ```bash
-go install github.com/mamad-1999/dns-changer@latest
+go install github.com/blackechox/dns-changer@latest
 ```
 ## Usage
    
