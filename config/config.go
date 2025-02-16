@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/mamad-1999/dns-changer/constants"
-	"github.com/mamad-1999/dns-changer/utils"
+	"github.com/blackechox/dns-changer/constants"
+	"github.com/blackechox/dns-changer/utils"
 )
 
 type DnsConfig struct {
