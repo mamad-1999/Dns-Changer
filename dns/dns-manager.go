@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	"github.com/mamad-1999/dns-changer/config"
-	"github.com/mamad-1999/dns-changer/constants"
-	"github.com/mamad-1999/dns-changer/utils"
+	"github.com/blackvoidx/dns-changer/config"
+	"github.com/blackvoidx/dns-changer/constants"
+	"github.com/blackvoidx/dns-changer/utils"
 )
 
 // IsResolvManagedByNetworkManager checks if /etc/resolv.conf is symlinked and managed by NetworkManager
