@@ -1,7 +1,7 @@
 package constants
 
 // Config URL for downloading the default configuration.
-const ConfigURL = "https://raw.githubusercontent.com/mamad-1999/dns-changer/refs/heads/master/config.json"
+const ConfigURL = "https://raw.githubusercontent.com/blackvoidx/dns-changer/refs/heads/master/config.json"
 
 // Config directory and file names.
 const (
