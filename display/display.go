@@ -7,8 +7,8 @@ import (
 
 	"github.com/fatih/color"
 	"github.com/jedib0t/go-pretty/v6/table"
-	"github.com/mamad-1999/dns-changer/config"
-	"github.com/mamad-1999/dns-changer/ping"
+	"github.com/blackvoidx/dns-changer/config"
+	"github.com/blackvoidx/dns-changer/ping"
 )
 
 func DisplayDnsOptions(dnsConfigs []config.DnsConfig) {
