@@ -9,11 +9,11 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	"github.com/mamad-1999/dns-changer/config"
-	"github.com/mamad-1999/dns-changer/constants"
-	"github.com/mamad-1999/dns-changer/display"
-	"github.com/mamad-1999/dns-changer/dns"
-	"github.com/mamad-1999/dns-changer/utils"
+	"github.com/blackvoidx/dns-changer/config"
+	"github.com/blackvoidx/dns-changer/constants"
+	"github.com/blackvoidx/dns-changer/display"
+	"github.com/blackvoidx/dns-changer/dns"
+	"github.com/blackvoidx/dns-changer/utils"
 )
 
 func main() {
