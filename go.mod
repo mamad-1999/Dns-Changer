@@ -1,4 +1,4 @@
-module github.com/mamad-1999/dns-changer
+module github.com/blackvoidx/dns-changer
 
 go 1.21.3
 
